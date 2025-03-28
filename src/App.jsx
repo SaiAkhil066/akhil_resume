@@ -33,12 +33,12 @@ const Resume = () => {
     ],
     education: [
       {
-        institution: 'University Name',
+        institution: 'University Name: Andhra University',
         degree: 'MCA',
         year: '2024'
       },
       {
-        institution: 'College Name',
+        institution: 'College Name: Andhra University',
         degree: 'BCA',
         year: '2022'
       }
